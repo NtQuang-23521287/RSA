@@ -1,4 +1,5 @@
-Các chức năng: Mã hóa, Giải mã, Ký văn bản, Xác thực văn bản đã ký 
+Các chức năng: Mã hóa, Giải mã, Ký văn bản, Xác thực văn bản đã ký.
+
 Luồng hoạt động:
   - Khi mở app, phải generate public key và private key, sau đó lưu 2 key lại
   - Luồng Mã hóa:
